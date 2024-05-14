@@ -82,20 +82,21 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | BH | Review of Quiz 1 | Project Rehearsals (Optional) | Quiz 1 Retake | Project 1 Overall Feedback & Intro P2 | Titanic Lab Review |
 | AM | 205: Ethics & Plagiarism | P1 Presentations | 206: The Central Limit Theorem and Inference I | 301: Linear Regression I | 302: Linear Regression II |
 | PM | Project Work Time | P1 Presentations | 207: The Central Limit Theorem and Inference II | _Outcomes_ | 303: Regression Metrics
+| HW | | | | Lab 3.01: Regression | |
+
+### Week 4 - Classification (Jun 10 - Jun 14)
+|    | M `6/10` | T `6/11` | W `6/12` | Th `6/13` | F `6/14` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | Kaggle Submission Tutorial | Tim Draws a Cool Diagram | Quiz 2 | Quiz 2 Review | Quiz 2 Retake |
+| AM | 304: Bias/Variance Tradeoff and Holdout Techniques | 306: Model Workflow | 401: Logistic Regression | 403: Regularization | 404: Classification Metrics I |
+| PM | 305: Feature Engineering | Buffer/Overflow Time | 402: k-Nearest Neighbors | _Outcomes_ | 405: Classification Metrics II |
+| HW | | Lab 3.02: Validation | | Lab 4.01: Classification | |
 
 --- 
 # CHANGE LINE
 
 Everything below this line is to be considered some combination of "to be determined" or "in progress". In general, the overall shape of our class is correct, but lesson dates will change.
 ---
-
-<!-- ### Week 4 - Classification (Feb 12 - Feb 16) -->
-<!-- |    | M `2/12` | T `2/13` | W `2/14` | Th `2/15` | F `2/16` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | Quiz 2 | Quiz 2 Review | Quiz 2 Retake | Baseline Review | Project 2 Prep | -->
-<!-- | AM | [306: Model Workflow][306] & [401: Intro to Classification with Logistic Regression][401] | [403: Regularization][403] | [405: Classification Metrics II][405] | [406: GridSearch + Pipelines][406] | Project 2 Presentations | -->
-<!-- | PM | [402: k-Nearest Neighbors][402] | [404: Classification Metrics I][404] | Project Work Time | _Outcomes_ | Project 2 Presentations | -->
-<!-- | HW | Classification Lab | Classification Evaluation Lab | | | | -->
 
 <!-- ### Week 5 - Web Scaping, APIs, and NLP (Feb 19 - Feb 23) -->
 <!-- |    | M `2/19` | T `2/20` | W `2/21` | Th `2/22` | F `2/23` | -->
