@@ -92,6 +92,49 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | 305: Feature Engineering | Buffer/Overflow Time | 402: k-Nearest Neighbors | _Outcomes_ | 405: Classification Metrics II |
 | HW | | Lab 3.02: Validation | | Lab 4.01: Classification | |
 
+### Remaining Lessons in Approximate Order:
+
+* NLP and Web Data Unit
+    * HTML
+    * Web Scraping
+    * APIs (Consumption + Creation with Flask)
+    * NLP I and II
+    * Cloud Computing World Tour
+    * Streamlit
+    * Object-Oriented Programming
+* Tree-Based Modeling Unit
+    * Decision Trees
+    * Bootstrapping and Bagging
+    * Random Forest and Extra Trees
+    * Boosting
+* Other Misc ML Models
+    * SVMs
+    * GLMs
+    * Gradient Descent
+* Unsupervised Learning Unit
+    * Intro to Clustering and K-Means
+    * DBSCAN and More
+    * PCA
+    * Transfer Learning
+    * Recommender Systems
+* Neural Network Unit
+    * Intro to NNs
+    * Dense Nets and Keras
+    * Regularizing NNs
+    * CNNs
+    * RNNs
+    * CYOA Bonus Lessons
+* Database Unit
+    * SQL I, II, and III
+    * Maybe a SQL IV? Oh, we will see.
+    * PySpark
+* Time Series and other Statistics Unit
+    * TS I, II, and III
+    * Bayes One-Shot
+    * Intro to R I and II
+    * Tableau
+
+
 --- 
 # CHANGE LINE
 
