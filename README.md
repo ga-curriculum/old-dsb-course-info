@@ -24,11 +24,11 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 
 | Zoom URL          |
 |-------------------|
-| [Link]() |
+| [Link](https://generalassembly.zoom.us/j/93532582281?pwd=UFViOXp3bXNFSUFMTkcwUG5WWWx4UT09) |
 
 ## Handy Links
 
-#### [Google Classroom]()
+#### [Google Classroom](https://classroom.google.com/c/Njc5NTU3NDMxNTMw)
 
 #### [Breakfast Hour](https://git.generalassemb.ly/dsb-521/breakfast-hour)
 
