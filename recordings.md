@@ -2,3 +2,10 @@
 
 _Recordings will appear here as they become available_
 
+### Week 1 - Getting Started: The Command Line, Git, Python, and Pandas (May 21 - May 24)
+
+|    | M `5/20` | T `5/21` | W `5/22` | Th `5/23` | F `5/24` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | _Holiday_ | Welcome | Submissions Setup | BH Setup | Intro Project 1 & Exit Tickets! |
+| AM | _Holiday_ | 100: Orientation + Installfest | 102: Python Datatypes | 104: Functions | 106: Pandas I |
+| PM | _Holiday_ | 101: Command Line and Git | 103: Control Flow | 105: List Comprehensions and More | 106: Pandas II |
