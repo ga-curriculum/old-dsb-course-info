@@ -64,9 +64,13 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `5/20` | T `5/21` | W `5/22` | Th `5/23` | F `5/24` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | _Holiday_ | Welcome | Submissions Setup | BH Setup | Intro Project 1 & Exit Tickets! |
-| AM | _Holiday_ | 100: Orientation + Installfest | 102: Python Datatypes | 104: Functions | 106: Pandas I |
-| PM | _Holiday_ | 101: Command Line and Git | 103: Control Flow | 105: List Comprehensions and More | 106: Pandas II |
+| AM | _Holiday_ | [100: Orientation + Installfest][100] | [102: Python Datatypes][102] | 104: Functions | 106: Pandas I |
+| PM | _Holiday_ | [101: Command Line and Git][101] | 103: Control Flow | 105: List Comprehensions and More | 106: Pandas II |
 | HW | _Holiday_ | Python First Trial | Python Second Trial | | Project 1 Introduced | Titanic Lab |
+
+[100]: https://git.generalassemb.ly/dsb-521/100-lesson-installfest
+[101]: https://git.generalassemb.ly/dsb-521/101-lesson-cl-and-git
+[102]: https://git.generalassemb.ly/dsb-521/102-lesson-python-intro
 
 ### Week 2 - Stat Week (May 27 - May 31)
 |    | M `5/27` | T `5/28` | W `5/29` | Th `5/30` | F `5/31` |
