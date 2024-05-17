@@ -47,14 +47,14 @@ _Coming Soon_
 
 | Unit   | Week Assigned | Assignment                                                                 | Due Date    |
 |--------|---------------|----------------------------------------------------------------------------|-------------|
-| 1      | Week 1        | [Python Trial 1](https://git.generalassemb.ly/dsb-122/101-lab-first-trial) | TBD |
-| 1      | Week 1        | [Python Trial 2](https://git.generalassemb.ly/dsb-122/102-lab-second-trial) | TBD |
+| 1      | Week 1        | [Python Trial 1](https://git.generalassemb.ly/dsb-521/101-lab-first-trial) | Weds, 5/29 |
+| 1      | Week 1        | [Python Trial 2](https://git.generalassemb.ly/dsb-521/102-lab-second-trial) | Fri, 5/31 |
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
 
 | Unit   | Week Assigned | Project                                                     | Due Date      |
 |--------|---------------|-------------------------------------------------------------|---------------|
-| 1      | Week 1        | Project 1 | TBD |
+| 1      | Week 1        | Project 1 | Tues, 6/4 |
 
 ## Schedule
 Below is where you can find our course schedule. As lessons are uploaded, the text will be replaced with clickable links to lesson materials. Week titles are only general themes, and are not exhaustive of what will be learned that week. Note that there is a line, below which, our schedule is subject to change on a whim..
