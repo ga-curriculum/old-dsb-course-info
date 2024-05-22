@@ -79,7 +79,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 2 - Stat Week (May 27 - May 31)
 |    | M `5/27` | T `5/28` | W `5/29` | Th `5/30` | F `5/31` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | _Holiday_ | Markdown Basics | EDA/Viz Practice | Review for Quiz 1 | Quiz 1 |
+| BH | _Holiday_ | Project Best Practices (contd) | Intro Quizzes/Review | EDA/Viz Practice | Quiz 1 |
 | AM | _Holiday_ | 107: Data Viz | 108: EDA | 202: Probability | 203: Discrete Distributions |
 | PM | _Holiday_ | Unit 1 Buffer Zone | 201: Stats Bomb | _Outcomes_ | 204: Continuous Distributions |
 | HW | _Holiday_ | Lab 2.01: Titanic Lab | | | Lab 2.02: Excel Madness |
@@ -95,7 +95,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 4 - Classification (Jun 10 - Jun 14)
 |    | M `6/10` | T `6/11` | W `6/12` | Th `6/13` | F `6/14` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | Kaggle Submission Tutorial | Tim Draws a Cool Diagram | Quiz 2 | Quiz 2 Review | Quiz 2 Retake |
+| BH | Baseline Review - LinReg | Tim Draws a Cool Diagram | Sample Kaggle submission | Quiz 2 | Quiz Review |
 | AM | 304: Bias/Variance Tradeoff and Holdout Techniques | 306: Model Workflow | 401: Logistic Regression | 403: Regularization | 404: Classification Metrics I |
 | PM | 305: Feature Engineering | Buffer/Overflow Time | 402: k-Nearest Neighbors | _Outcomes_ | 405: Classification Metrics II |
 | HW | | Lab 3.02: Validation | | Lab 4.01: Classification | |
