@@ -54,7 +54,7 @@ _Coming Soon_
 
 | Unit   | Week Assigned | Project                                                     | Due Date      |
 |--------|---------------|-------------------------------------------------------------|---------------|
-| 1      | Week 1        | Project 1 | Tues, 6/4 |
+| 1      | Week 1        | [Project 1](https://git.generalassemb.ly/dsb-521/project-1) | Tues, 6/4 |
 
 ## Schedule
 Below is where you can find our course schedule. As lessons are uploaded, the text will be replaced with clickable links to lesson materials. Week titles are only general themes, and are not exhaustive of what will be learned that week. Note that there is a line, below which, our schedule is subject to change on a whim..
