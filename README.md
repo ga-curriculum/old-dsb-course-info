@@ -79,7 +79,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 2 - Stat Week (May 27 - May 31)
 |    | M `5/27` | T `5/28` | W `5/29` | Th `5/30` | F `5/31` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | _Holiday_ | Project Best Practices (contd) | Intro Quizzes/Review | EDA/Viz Practice | Quiz 1 |
+| BH | _Holiday_ | Project Best Practices (contd) | EDA intro/Viz practice | Quiz practice  | Quiz 1 |
 | AM | _Holiday_ | [107: Data Viz][107] | [108: EDA][108] | 202: Probability | 203: Discrete Distributions |
 | PM | _Holiday_ | Unit 1 Buffer Zone | [201: Stats Bomb](https://git.generalassemb.ly/dsb-521/201-lesson-statsbomb) | _Outcomes_ | 204: Continuous Distributions |
 | HW | _Holiday_ | Lab 2.01: Titanic Lab | | | Lab 2.02: Excel Madness |
