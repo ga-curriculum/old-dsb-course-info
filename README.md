@@ -81,7 +81,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | _Holiday_ | Project Best Practices (contd) | Intro Quizzes/Review | EDA/Viz Practice | Quiz 1 |
 | AM | _Holiday_ | [107: Data Viz][107] | [108: EDA][108] | 202: Probability | 203: Discrete Distributions |
-| PM | _Holiday_ | Unit 1 Buffer Zone | 201: Stats Bomb | _Outcomes_ | 204: Continuous Distributions |
+| PM | _Holiday_ | Unit 1 Buffer Zone | [201: Stats Bomb](https://git.generalassemb.ly/dsb-521/201-lesson-statsbomb) | _Outcomes_ | 204: Continuous Distributions |
 | HW | _Holiday_ | Lab 2.01: Titanic Lab | | | Lab 2.02: Excel Madness |
 
 [107]: https://git.generalassemb.ly/dsb-521/107-lesson-data-visualization
@@ -146,7 +146,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
     * Tableau
 
 
---- 
+---
 # CHANGE LINE
 
 Everything below this line is to be considered some combination of "to be determined" or "in progress". In general, the overall shape of our class is correct, but lesson dates will change.
