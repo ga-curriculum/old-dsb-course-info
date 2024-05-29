@@ -49,6 +49,7 @@ _Coming Soon_
 |--------|---------------|----------------------------------------------------------------------------|-------------|
 | 1      | Week 1        | [Python Trial 1](https://git.generalassemb.ly/dsb-521/101-lab-first-trial) | Weds, 5/29 |
 | 1      | Week 1        | [Python Trial 2](https://git.generalassemb.ly/dsb-521/102-lab-second-trial) | Fri, 5/31 |
+| 1      | Week 2        | [Titanic](https://git.generalassemb.ly/dsb-521/201-lab-titanic) | Weds, 6/5 |
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
 
