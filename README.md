@@ -81,13 +81,14 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `5/27` | T `5/28` | W `5/29` | Th `5/30` | F `5/31` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | _Holiday_ | Project Best Practices (contd) | EDA intro/Viz practice | Quiz practice  | Quiz 1 |
-| AM | _Holiday_ | [107: Data Viz][107] | [201: Stats Bomb][201] | 108: EDA | 203: Discrete Distributions |
-| PM | _Holiday_ | Unit 1 Buffer Zone | _Outcomes_ | 202: Probability | 204: Continuous Distributions |
+| AM | _Holiday_ | [107: Data Viz][107] | [201: Stats Bomb][201] | [108: EDA][108] | 203: Discrete Distributions |
+| PM | _Holiday_ | Unit 1 Buffer Zone | _Outcomes_ | [202: Probability][202] | 204: Continuous Distributions |
 | HW | _Holiday_ | Lab 2.01: Titanic Lab | | | Lab 2.02: Excel Madness |
 
 [107]: https://git.generalassemb.ly/dsb-521/107-lesson-data-visualization
 [108]: https://git.generalassemb.ly/dsb-521/108-lesson-eda
 [201]: https://git.generalassemb.ly/dsb-521/201-lesson-statsbomb
+[202]: https://git.generalassemb.ly/dsb-521/202-lesson-intro-to-probability
 
 ### Week 3 - Regression (Jun 3 - Jun 7)
 |    | M `6/3` | T `6/4` | W `6/5` | Th `6/6` | F `6/7` |
