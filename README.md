@@ -109,21 +109,29 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | 305: Feature Engineering | Buffer/Overflow Time | 402: k-Nearest Neighbors | _Outcomes_ | 405: Classification Metrics II |
 | HW | | Lab 3.02: Validation | | Lab 4.01: Classification | |
 
+### Week 5 - Web Scaping, APIs, and NLP (Jun 17 - Jun 21)
+|    | M `6/17` | T `6/18` | W `6/19` | Th `6/20` | F `6/21` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | Quiz 2 Retake | P2 Prep | _Holiday_ | .gitignores | Intro to P3 |
+| AM | 406: Gridsearch and Pipelines | Project 2 Presentations | _Holiday_ | 501: Intro to HTML | 502: Beautiful Soup |
+| PM | PWT | Project 2 Presentations | _Holiday_ | _Outcomes_ | 503: APIs and API Consumptions |
+| HW | 4.02 Classification Eval | | | | 5.01 Lab |
+
+### Week 6 - Supervised Machine Learning (Jun 24 - Jun 28)
+|    | M `6/24` | T `6/25` | W `6/26` | Th `6/27` | F `6/28` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | Quiz 3 | NLP Practice | Quiz Review | Quiz 3 Retake | Hank's SpaCy Review |
+| AM | 504: NLP I | 506: API Creation with Flask | 508: OOP | 602: Bootstrapping and Bagging | 603: Random Forests + Extra Trees |
+| PM | 505: NLP II | 507: Cloud Computing World Tour | 601: Decision Trees with CART | _Outcomes_ | 604: Boosting |
+| HW | 5.02 NLP EDA | | | | 6.01 Lab Name TBD |
+
+<!-- | BH | M | T | W | R | F | -->
+<!-- | AM | M | T | W | R | F | -->
+<!-- | PM | M | T | W | R | F | -->
+<!-- | HW | M | T | W | R | F | -->
+
 ### Remaining Lessons in Approximate Order:
 
-* NLP and Web Data Unit
-    * HTML
-    * Web Scraping
-    * APIs (Consumption + Creation with Flask)
-    * NLP I and II
-    * Cloud Computing World Tour
-    * Streamlit
-    * Object-Oriented Programming
-* Tree-Based Modeling Unit
-    * Decision Trees
-    * Bootstrapping and Bagging
-    * Random Forest and Extra Trees
-    * Boosting
 * Other Misc ML Models
     * SVMs
     * GLMs
@@ -150,21 +158,6 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
     * Bayes One-Shot
     * Intro to R I and II
     * Tableau
-
-
----
-# CHANGE LINE
-
-Everything below this line is to be considered some combination of "to be determined" or "in progress". In general, the overall shape of our class is correct, but lesson dates will change.
----
-
-<!-- ### Week 5 - Web Scaping, APIs, and NLP (Feb 19 - Feb 23) -->
-<!-- |    | M `2/19` | T `2/20` | W `2/21` | Th `2/22` | F `2/23` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | _Holiday_ | .gitignores | Intro to P3/Coding Challenges | Quiz 3 | NLP Practice | -->
-<!-- | AM | _Holiday_ | [501: Intro to HTML][501]  | [503: APIs & API Consumption][503] | [505: NLP II][505] | [506: API Creation with Flask][506] | -->
-<!-- | PM | _Holiday_ | [502: Beautiful Soup][502] | [504: NLP I][504] | _Outcomes_ | Happy Funtime Activity | -->
-<!-- | HW | _Holiday_ | Web-Scraping Lab | Project 3 |NLP Lab | | -->
 
 <!-- ### Week 6 - Supervised Machine Learning (Feb 26 - Mar 1) -->
 <!-- |    | M `2/26` | T `2/27` | W `2/28` | Th `2/29` | F `3/1` | -->
