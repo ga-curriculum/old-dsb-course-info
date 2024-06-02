@@ -97,9 +97,11 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `6/3` | T `6/4` | W `6/5` | Th `6/6` | F `6/7` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | Review of Quiz 1 | Project Rehearsals (Optional) | Quiz 1 Retake | Project 1 Overall Feedback & Intro P2 | Titanic Lab Review |
-| AM | 205: Ethics & Plagiarism | P1 Presentations | 206: The Central Limit Theorem and Inference I | 301: Linear Regression I | 302: Linear Regression II |
+| AM | [205: Ethics & Plagiarism][205] | P1 Presentations | 206: The Central Limit Theorem and Inference I | 301: Linear Regression I | 302: Linear Regression II |
 | PM | Project Work Time | P1 Presentations | 207: The Central Limit Theorem and Inference II | _Outcomes_ | 303: Regression Metrics
 | HW | | | | Lab 3.01: Regression | |
+
+[205]: https://git.generalassemb.ly/dsb-521/205-lesson-ethics-plagiarism
 
 ### Week 4 - Classification (Jun 10 - Jun 14)
 |    | M `6/10` | T `6/11` | W `6/12` | Th `6/13` | F `6/14` |
