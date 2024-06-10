@@ -40,7 +40,7 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 
 _Coming Soon_
 
-<!-- * [Python Ladder Challenge](https://git.generalassemb.ly/dsb-122/ladder-challenge-python)  -->
+[Python Ladder Challenge](https://git.generalassemb.ly/dsb-521/103x-ladder-challenge-python) 
 <!-- * [Numpy Ladder Challenge](https://git.generalassemb.ly/dsb-122/ladder-challenge-numpy)  -->
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) ASSIGNMENTS
@@ -52,6 +52,7 @@ _Coming Soon_
 | 1      | Week 2        | [Titanic](https://git.generalassemb.ly/dsb-521/201-lab-titanic) | Weds, 6/5 |
 | 1      | Week 2        | [Excel](https://git.generalassemb.ly/dsb-521/202-lab-excel) | Fri, 6/7 |
 | 1      | Week 3        | [Regression](https://git.generalassemb.ly/dsb-521/301-lab-regression) | Fri, 6/14 |
+| 1      | Week 4        | [Validation](https://git.generalassemb.ly/dsb-521/302-lab-validation) | Mon, 6/17 |
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
 
