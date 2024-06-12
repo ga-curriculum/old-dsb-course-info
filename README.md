@@ -139,30 +139,31 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | 505: NLP II | 507: Cloud Computing World Tour | 601: Decision Trees with CART | _Outcomes_ | 604: Boosting |
 | HW | 5.02 NLP EDA | | | | 6.01 Lab Name TBD |
 
-<!-- | BH | M | T | W | R | F | -->
-<!-- | AM | M | T | W | R | F | -->
-<!-- | PM | M | T | W | R | F | -->
-<!-- | HW | M | T | W | R | F | -->
+### Week X - Fourth of July Holiday Week! (Jul 1 - Jul 5)
+|    | M `7/1` | T `7/2` | W `7/3` | Th `7/4` | F `7/5` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | _Holiday_ | _Holiday_ | _Holiday_ | _Holiday_ | _Holiday_ |
+| AM | _Holiday_ | _Holiday_ | _Holiday_ | _Holiday_ | _Holiday_ |
+| PM | _Holiday_ | _Holiday_ | _Holiday_ | _Holiday_ | _Holiday_ |
+
+### Week 7 - Unsupervised Machine Learning (Jul 8 - Jul 12)
+|    | M `7/8` | T `7/9` | W `7/10` | Th `7/11` | F `7/12` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | Git Shenanigans | File IO and AOC Challenges | PWT | Project 5 Intro (Not a Typo!) | Quiz 4 |
+| AM | 605: SVMs | 607: GLMs | P3 Presentations | 701: Intro to Clustering & KMeans | 702: DBSCAN and Other Clustering Techniques |
+| PM | 606: Gradient Descent | PWT | P3 Presentations | _Outcomes_ | 703: PCA |
+| HW | | | | 7.01: KMeans | 7.02: PCA |
+
+### Week 8 - Neural Nets (Jul 15 - Jul 19)
+|    | M `7/15` | T `7/16` | W `7/17` | Th `7/18` | F `7/19` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | Coding Challenges | Battle of the Clusters/Clustering Practice | Quiz 4 Review | Quiz 4 Retake | Neural Net Review |
+| AM | 704: Transfer Learning | 706: Streamlit | 802: Dense Neural Nets (DNNs) and Keras | 804: Convolutional Neural Networks (CNNs) | 805: Recurrent Neural Networks (RNNs) |
+| PM | 705: Recommender Systems | 801: Intro to Neural Nets | 803: Regularizing Neural Nets | _Outcomes_ | Happy Funtime Activity (TBD) |
+| HW | | | 8.01: Applied NNs | 8.02: NN Digits | |
 
 ### Remaining Lessons in Approximate Order:
 
-* Other Misc ML Models
-    * SVMs
-    * GLMs
-    * Gradient Descent
-* Unsupervised Learning Unit
-    * Intro to Clustering and K-Means
-    * DBSCAN and More
-    * PCA
-    * Transfer Learning
-    * Recommender Systems
-* Neural Network Unit
-    * Intro to NNs
-    * Dense Nets and Keras
-    * Regularizing NNs
-    * CNNs
-    * RNNs
-    * CYOA Bonus Lessons
 * Database Unit
     * SQL I, II, and III
     * Maybe a SQL IV? Oh, we will see.
@@ -172,31 +173,6 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
     * Bayes One-Shot
     * Intro to R I and II
     * Tableau
-
-<!-- ### Week 6 - Supervised Machine Learning (Feb 26 - Mar 1) -->
-<!-- |    | M `2/26` | T `2/27` | W `2/28` | Th `2/29` | F `3/1` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | 4.02 Review | Quiz 3 Review | Quiz 3 Retake | Git Shenanigans | File IO and AOC Challenges | -->
-<!-- | AM | [507: Cloud Computing World Tour][507] | [601: Decision Trees with CART][601] | [603: Random Forests + Extra Trees][603] | [605: Support Vector Machines (SVMs)][605] | [606: Gradient Descent][606] | -->
-<!-- | PM | [508: Object-Oriented Programming (OOP)][508] | [602: Bootstrapping and Bagging][602] | [604: Boosting][604] | _Outcomes_ | [607: Generalized Linear Models (GLMs)][607] | -->
-<!-- | HW | Supervised Lab | | Wish Tim a Happy Birthday | | | -->
-
-<!-- ### Week 7 - Unsupervised Machine Learning (Mar 4 - Mar 8) -->
-<!-- |    | M `3/4` | T `3/5` | W `3/6` | Th `3/7` | F `3/8` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | Project 3 Prep | Intro Group Project, Github for Teams | Quiz 4 - Coding Challenges | Github For Teams | Cluster Practice | -->
-<!-- | AM | Project 3 Presentations | [701: Intro to Clustering and K-Means][701] | [703: Principal Components Analysis (PCA)][703] | [705: Recommender Systems][705] | [706: Streamlit][706] | -->
-<!-- | PM | Project 3 Presentations | [702: DBSCAN and Other Clustering Techniques][702] | [704: Transfer Learning][704]  | _Outcomes_ | How to Create a Python Package |  -->
-<!-- | HW | | KMeans Lab | | PCA Lab | | -->
-
-<!-- ### Week 8 - Neural Nets (Mar 11 - Mar 15) -->
-<!-- |    | M `3/11` | T `3/12` | W `3/13` | Th `3/14` | F `3/15` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | Review Quiz 4 | Quiz 4 Retake | Coding + NN Challenges | NN Quizziz Challenge | Capstone ⚡️ Talk Intro, Hackathon Intro | -->
-<!-- | AM | [801: Intro to Neural Networks][801] | [803: Regularization with NNs][803] | [805: Recurrent Neural Networks (RNNs)][805] | [CYOA Neural Net Lessons][CYOA] | P4: Neural Net Hackathon! | -->
-<!-- | PM | [802: Dense Neural Networks (DNNs) and Keras][802] | [804: Convolutional Neural Networks (CNNs)][804] | [CYOA Neural Net Lessons][CYOA] | _Outcomes_ | P4: Neural Net Hackathon! |  -->
-<!-- | HW | | NN Regression Lab | NN Applied Lab | |  | -->
-<!-- | Tim is... | _In_ | _In_ | _In_ | _In_ | _Out_ | -->
 
 <!-- ### Week 9 - SQL, Spark, and Data Engineering (Mar 18 - Mar 22) -->
 
