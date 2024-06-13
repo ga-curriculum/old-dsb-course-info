@@ -113,7 +113,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `6/10` | T `6/11` | W `6/12` | Th `6/13` | F `6/14` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | Baseline Review - LinReg | Tim Draws a Cool Diagram | Sample Kaggle submission | Quiz 2 | Quiz Review |
-| AM | [304: Bias/Variance Tradeoff and Holdout Techniques][304] | [306: Model Workflow][306] | [401: Logistic Regression][401] | 403: Regularization | 404: Classification Metrics I |
+| AM | [304: Bias/Variance Tradeoff and Holdout Techniques][304] | [306: Model Workflow][306] | [401: Logistic Regression][401] | [403: Regularization][403] | 404: Classification Metrics I |
 | PM | [305: Feature Engineering][305] | Buffer/Overflow Time | [402: k-Nearest Neighbors][402] | _Outcomes_ | 405: Classification Metrics II |
 | HW | | Lab 3.02: Validation | | Lab 4.01: Classification | |
 
@@ -122,6 +122,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 [306]: https://git.generalassemb.ly/dsb-521/306-lesson-model-workflow
 [401]: https://git.generalassemb.ly/dsb-521/401-lesson-logistic-regression
 [402]: https://git.generalassemb.ly/dsb-521/402-lesson-knn
+[403]: https://git.generalassemb.ly/dsb-521/403-lesson-regularization
 
 ### Week 5 - Web Scaping, APIs, and NLP (Jun 17 - Jun 21)
 |    | M `6/17` | T `6/18` | W `6/19` | Th `6/20` | F `6/21` |
