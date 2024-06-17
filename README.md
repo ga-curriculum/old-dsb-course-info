@@ -131,9 +131,11 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `6/17` | T `6/18` | W `6/19` | Th `6/20` | F `6/21` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | Quiz 2 Retake | P2 Prep | _Holiday_ | .gitignores | Intro to P3 |
-| AM | 406: Gridsearch and Pipelines | Project 2 Presentations | _Holiday_ | 501: Intro to HTML | 502: Beautiful Soup |
+| AM | [406: Gridsearch and Pipelines][406] | Project 2 Presentations | _Holiday_ | 501: Intro to HTML | 502: Beautiful Soup |
 | PM | PWT | Project 2 Presentations | _Holiday_ | _Outcomes_ | 503: APIs and API Consumptions |
 | HW | 4.02 Classification Eval | | | | 5.01 Lab |
+
+[406]: https://git.generalassemb.ly/dsb-521/406-lesson-gridsearch-and-pipelines
 
 ### Week 6 - Supervised Machine Learning (Jun 24 - Jun 28)
 |    | M `6/24` | T `6/25` | W `6/26` | Th `6/27` | F `6/28` |
