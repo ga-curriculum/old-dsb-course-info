@@ -54,7 +54,7 @@ _Coming Soon_
 | 2      | Week 3        | [Regression](https://git.generalassemb.ly/dsb-521/301-lab-regression) | Fri, 6/14 |
 | 2      | Week 4        | [Validation](https://git.generalassemb.ly/dsb-521/302-lab-validation) | Mon, 6/17 |
 | 2      | Week 4        | [Classification](https://git.generalassemb.ly/dsb-521/401-lab-classification-new) | Fri, 6/21 |
-| 2      | Week 5        | [Classification Eval](git@git.generalassemb.ly:dsb-122/402-lab-classification-eval.git) | Mon, 6/24 |
+| 2      | Week 5        | [Classification Eval](https://git.generalassemb.ly/dsb-521/402-lab-classification-eval) | Mon, 6/24 |
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
 
