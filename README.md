@@ -177,59 +177,46 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | 705: Recommender Systems | 801: Intro to Neural Nets | 803: Regularizing Neural Nets | _Outcomes_ | Happy Funtime Activity (TBD) |
 | HW | | | 8.01: Applied NNs | 8.02: NN Digits | |
 
-### Remaining Lessons in Approximate Order:
+### Week 9 - SQL, Spark, and Data Engineering (Jul 22 - Jul 26)
 
-* Database Unit
-    * SQL I, II, and III
-    * Maybe a SQL IV? Oh, we will see.
-    * PySpark
-* Time Series and other Statistics Unit
-    * TS I, II, and III
-    * Bayes One-Shot
-    * Intro to R I and II
-    * Tableau
+|    | M `7/22` | T `7/23` | W `7/24` | Th `7/25` | F `7/26` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | NN Coding Challenges, Intro to Lightning Talks | P4: NN Hackathon | Joins Review | Quiz 5 | Review Quiz 5 |
+| AM | _CYOA Lesson Time_ | P4: NN Hackathon | 901: SQL I | 903: SQL III | 904: PySpark |
+| PM | _CYOA Lesson Time_ | P4: NN Hackathon | 902: SQL II | _Outcomes_ | Happy Funtime Activity: SQL IV? |
+| HW | | | 9.01 and 9.02 Labs | | |
 
-<!-- ### Week 9 - SQL, Spark, and Data Engineering (Mar 18 - Mar 22) -->
+### Week 10 - Time Series + Pot Pourri (Jul 29 - Aug 2)
+|    | M `7/29` | T `7/30` | W `7/31` | Th `8/1` | F `8/2` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | TBD | Quiz 5 Retake | Portfolios (Async) | Quiz 6 (SQL) | TBD |
+| AM | 1001: Time Series I | 1003: Time Series III | 1004: Bayes One-Shot | 1005: Intro to R II | TBD |
+| PM | 1002: Time Series II | Capstone Flash Talks | 1005: Intro to R I | _Outcomes_ | TBD |
+| HW | 10.01: Time Series EDA | 10.02: Time Series Modeling | | 11.01: R Lab | |
 
-<!-- |    | M `3/18` | T `3/19` | W `3/20` | Th `3/21` | F `3/22` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | Databricks setup, Joins Review | Quiz 5 | Explore a Database! | Quiz 5 Review (Fast), Lightning Talks | P5 Practice | -->
-<!-- | AM | SUMIT PRESENTS: Scala! | [901: SQL I][901]  | [903: SQL III][903] | Lightning Talks + Project Work Time | P5 Presentations -->
-<!-- | PM | SUMIT PRESENTS: Spark! | [902: SQL II][902] | SQL Funtime | _Async Outcomes Worktime_ | P5 Presentations -->
-<!-- | HW | |SQL Lab I | SQL Ladder Lab | | | -->
-<!-- | Tim is... | _Out_ | _In_ | _In_ | _In_ | _In_ | -->
+### Week 11 - Miscellaneous + Capstone Work Time (Aug 5 - Aug 9)
+|    | M `8/5` | T `8/6` | W `8/7` | Th `8/8` | F `8/9` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | _Holiday_ | Quiz 6 Review | Quiz 6 Retake | | |
+| AM | _Holiday_ | 1101: Tableau I | 1102: Tableau II (Likely) | _Morning Standup_ | _Morning Standup_ |
+| PM | _Holiday_ | Portolfio Work Time + Flex | | _Outcomes_ | |
+| HW | | | | | |
 
-<!-- ### Week 10 - Time Series + Pot Pourri (Mar 25 - Mar 29) -->
-<!-- |    | M `3/25` | T `3/26` | W `3/27` | Th `3/28` | F `3/29` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | SQL Post-Assessment | Quiz 5 Retake | Portfolios, 2 Ways | Quiz 6 SQL | _Holiday_ | -->
-<!-- | AM | [1001: Time Series in Pandas][1001] | [1003: Time Series II][1003] | [1004: Bayes One-Shot][1004] | [1005: Intro to R II][1005] | _Holiday_ | -->
-<!-- | PM | [1002: Time Series I][1002] | Flex | [1005: Intro to R I][1005] | _Async Outcomes Worktime_ | _Holiday_ | -->
-<!-- | HW | TBD Time Series Lab | | | R Lab | | -->
+### Week 12 - Heads Down Week (Aug 12 - Aug 16)
+|    | M `8/12` | T `8/13` | W `8/14` | Th `8/15` | F `8/16` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | | | | | |
+| AM | _Morning Standup_| _Morning Standup_| _Morning Standup_ | _Morning Standup_ | _Morning Standup_ |
+| PM | | | | | |
+| HW | | | | | |
 
-<!-- ### Week 11 - Miscellaneous + Capstone Work Time (Apr 1 - Apr 5) -->
-<!-- |    | M `4/1` | T `4/2` | W `4/3` | Th `4/4` | F `4/5` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | _Holiday_ | Quiz 6 Review | Quiz 6 Retake | | | -->
-<!-- | AM | _Holiday_ | [1101: Tim's Linux Hodge Podge][1101] | [1102: Tableau][1102] | _Morning Standup_ | _Morning Standup_ | -->
-<!-- | PM | _Holiday_ | | | _Async Outcomes Worktime_ | | -->
-<!-- | HW | | | | | | -->
-
-<!-- ### Week 12 - Heads Down Week (Apr 8 - Apr 12) -->
-<!-- |    | M `4/8` | T `4/9` | W `4/10` | Th `4/11` | F `4/12` | -->
-<!-- |----|-------------|-------------|-------------|--------------|-------------| -->
-<!-- | BH | | | | | | -->
-<!-- | AM | _Morning Standup_| _Morning Standup_| _Morning Standup_ | _Morning Standup_ | _Morning Standup_ | -->
-<!-- | PM | Technical Interview Practice!  | | | | | -->
-<!-- | HW | | | | | | -->
-
-<!-- ### Week 13 - Finale Week (Apr 15 - Apr 17) -->
-<!-- |    | M `4/15` | T `4/16` | W `4/17` | -->
-<!-- |----|-------------|-------------|-------------| -->
-<!-- | BH | | | | -->
-<!-- | AM | _Morning Standup_ | _Morning Standup_| Capstone Presentations! | -->
-<!-- | PM | | | DSI is Over! | -->
-<!-- | HW | | | | -->
+### Week 13 - Finale Week (Aug 19 - Aug 22)
+|    | M `8/19` | T `8/20` | W `8/21` | Th `8/22` | F `8/23` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | | | | | |
+| AM | _Morning Standup_ | _Morning Standup_| _Morning Standup_ | Capstone Presentations! | |
+| PM | | | | DSI is Over! | |
+| HW | | | | | |
 
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CODE OF CONDUCT
