@@ -207,7 +207,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | | | | | |
 | AM | _Morning Standup_| _Morning Standup_| _Morning Standup_ | _Morning Standup_ | _Morning Standup_ |
-| PM | | | | | |
+| PM | | | | _Outcomes_ | |
 | HW | | | | | |
 
 ### Week 13 - Finale Week (Aug 19 - Aug 22)
