@@ -175,7 +175,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 8 - Neural Nets (Jul 15 - Jul 19)
 |    | M `7/15` | T `7/16` | W `7/17` | Th `7/18` | F `7/19` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | Coding Challenges | Battle of the Clusters/Clustering Practice | Quiz 4 Review | Quiz 4 Retake | Neural Net Review |
+| BH | Battle of the Clusters/Clustering Practice | Coding Challenges | Quiz 4 Review | Quiz 4 Retake | Neural Net Review |
 | AM | 704: Transfer Learning | 706: Streamlit | 802: Dense Neural Nets (DNNs) and Keras | 804: Convolutional Neural Networks (CNNs) | 805: Recurrent Neural Networks (RNNs) |
 | PM | 705: Recommender Systems | 801: Intro to Neural Nets | 803: Regularizing Neural Nets | _Outcomes_ | Happy Funtime Activity (TBD) |
 | HW | | | 8.01: Applied NNs | 8.02: NN Digits | |
@@ -184,7 +184,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 
 |    | M `7/22` | T `7/23` | W `7/24` | Th `7/25` | F `7/26` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | NN Coding Challenges, Intro to Lightning Talks | P4: NN Hackathon | Joins Review | Quiz 5 | Review Quiz 5 |
+| BH | NN Coding Challenges, Intro to Lightning Talks | P4: NN Hackathon | Joins Review | SQL TBD | Quiz 5 |
 | AM | _CYOA Lesson Time_ | P4: NN Hackathon | 901: SQL I | 903: SQL III | 904: PySpark |
 | PM | _CYOA Lesson Time_ | P4: NN Hackathon | 902: SQL II | _Outcomes_ | Happy Funtime Activity: SQL IV? |
 | HW | | | 9.01 and 9.02 Labs | | |
@@ -192,7 +192,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 10 - Time Series + Pot Pourri (Jul 29 - Aug 2)
 |    | M `7/29` | T `7/30` | W `7/31` | Th `8/1` | F `8/2` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | TBD | Quiz 5 Retake | Portfolios (Async) | Quiz 6 (SQL) | TBD |
+| BH | Quiz 5 Review | Quiz 5 Retake | Portfolios (Async) | Quiz 6 (SQL) | TBD |
 | AM | 1001: Time Series I | 1003: Time Series III | 1004: Bayes One-Shot | 1005: Intro to R II | TBD |
 | PM | 1002: Time Series II | Capstone Flash Talks | 1005: Intro to R I | _Outcomes_ | TBD |
 | HW | 10.01: Time Series EDA | 10.02: Time Series Modeling | | 11.01: R Lab | |
