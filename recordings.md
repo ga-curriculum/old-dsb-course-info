@@ -74,3 +74,30 @@ _Recordings will appear here as they become available_
 [614bh]: https://generalassembly.zoom.us/rec/play/ijPwqde2N5EUnrS14EKgZp-qdk270mhj0sEE4qdvaHkl_8ItEWfKLMAVcJ0YujX9xB6AQotH6YQUa_2E.ZwMk7fxiVgYTbjT8?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FNk0P6agpKro7hgONZqhHSkX71bzMZj9KpN5zQ7n0hPOJbscu-zQCXrQTS3tJLdnH.a9xBZpyFe2FufPg8
 [404]: https://generalassembly.zoom.us/rec/play/ijPwqde2N5EUnrS14EKgZp-qdk270mhj0sEE4qdvaHkl_8ItEWfKLMAVcJ0YujX9xB6AQotH6YQUa_2E.ZwMk7fxiVgYTbjT8?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FNk0P6agpKro7hgONZqhHSkX71bzMZj9KpN5zQ7n0hPOJbscu-zQCXrQTS3tJLdnH.a9xBZpyFe2FufPg8&autoplay=true&startTime=1718374005000
 [405]: https://generalassembly.zoom.us/rec/play/ijPwqde2N5EUnrS14EKgZp-qdk270mhj0sEE4qdvaHkl_8ItEWfKLMAVcJ0YujX9xB6AQotH6YQUa_2E.ZwMk7fxiVgYTbjT8?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FNk0P6agpKro7hgONZqhHSkX71bzMZj9KpN5zQ7n0hPOJbscu-zQCXrQTS3tJLdnH.a9xBZpyFe2FufPg8&autoplay=true&startTime=1718384611000
+
+### Week 5 - Web Scaping, APIs, and NLP (Jun 17 - Jun 21)
+|    | M `6/17` | T `6/18` | W `6/19` | Th `6/20` | F `6/21` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | Quiz 2 Retake | P2 Prep | _Holiday_ | [.gitignores][620bh] | [Intro to P3][621bh] |
+| AM | [406: Gridsearch and Pipelines][406] | [Project 2 Presentations][P2] | _Holiday_ | [501: Intro to HTML][501] | [502: Beautiful Soup][502] |
+| PM | PWT | Project 2 Presentations | _Holiday_ | _Outcomes_ | [503: APIs and API Consumptions][503] |
+| HW | 4.02 Classification Eval | | | | 5.01 Lab |
+
+[406]: https://generalassembly.zoom.us/rec/play/CQy1k7gYx_o-lly9azeETmwkAUpNKcxiMkY-hUHiMjk-UM29rP32hygf7qcbesGfpLubUzvQfA1H0VCF.oVw08YeDPFCY4rpE?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FXSRiegnuXA2nvqOE1h6x9N1Jit1uG92OGadFRW2U2JgYKeiNdKM30elRi2zV9ehz.UqJGXqqD3jnQbrQ-
+[P2]: https://generalassembly.zoom.us/rec/play/6a9hplS2VkkuKDQyx3s8qYe4nLOtCUwOlCa7Svlte6TKeYpC_VnS-adjbNyBaMWmEbASizzxJHZ3_fZV.Cif88KaZdeDsi92_?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FyS3P_8HxwVb5ZMp_z41_nkGRnpz52kFVDgjZJ1psotL2ecTks76lfFtSjRTOEMjV.g_0MvOOvCPZOv7lS
+[620bh]: https://generalassembly.zoom.us/rec/play/ttFDuqoaYRbl8wOx7HTLzILWtQhNc40KJNm6jLHL0fNzwHcoLycrJpV4xZBuyt3YbOFo5wIBOYHk8BpX.f7VDtmhK0u6MvKPQ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FOhOOgYusz-sqQVZrnAhA3yh1X3ACmC0-QcV7SRVFBXgvSfI351HMtRebUtPHEkDo.rveSSgQfUvVkYpsV
+[501]: https://generalassembly.zoom.us/rec/play/ttFDuqoaYRbl8wOx7HTLzILWtQhNc40KJNm6jLHL0fNzwHcoLycrJpV4xZBuyt3YbOFo5wIBOYHk8BpX.f7VDtmhK0u6MvKPQ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FOhOOgYusz-sqQVZrnAhA3yh1X3ACmC0-QcV7SRVFBXgvSfI351HMtRebUtPHEkDo.rveSSgQfUvVkYpsV&autoplay=true&startTime=1718892413000
+[621bh]: https://generalassembly.zoom.us/rec/play/uOB1PyETAgUSI4UHpUgG8ToBcHlbnx3qhdHvxkj3Hr7dSY5tLBsGrtkXJb7GHSwyrIA8oEyZAaqW2q8.Dngs8VwMsRicqnO9?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FXl-WZT8gE_s6C19cAdVeV8EYAD-sq5huXBnLJ2ME0YTdbW1-EUPjB6B7m2ky14XR.WG2duz-tpUQtLcO4
+[502]: https://generalassembly.zoom.us/rec/play/uOB1PyETAgUSI4UHpUgG8ToBcHlbnx3qhdHvxkj3Hr7dSY5tLBsGrtkXJb7GHSwyrIA8oEyZAaqW2q8.Dngs8VwMsRicqnO9?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FXl-WZT8gE_s6C19cAdVeV8EYAD-sq5huXBnLJ2ME0YTdbW1-EUPjB6B7m2ky14XR.WG2duz-tpUQtLcO4&autoplay=true&startTime=1718979433000
+[503]: https://generalassembly.zoom.us/rec/play/uOB1PyETAgUSI4UHpUgG8ToBcHlbnx3qhdHvxkj3Hr7dSY5tLBsGrtkXJb7GHSwyrIA8oEyZAaqW2q8.Dngs8VwMsRicqnO9?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FXl-WZT8gE_s6C19cAdVeV8EYAD-sq5huXBnLJ2ME0YTdbW1-EUPjB6B7m2ky14XR.WG2duz-tpUQtLcO4&autoplay=true&startTime=1718989671000
+
+### Week 6 - Supervised Machine Learning (Jun 24 - Jun 28)
+|    | M `6/24` | T `6/25` | W `6/26` | Th `6/27` | F `6/28` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | Quiz 3 | NLP Practice | Quiz Review | Quiz 3 Retake | Hank's SpaCy Review |
+| AM | [504: NLP I][504] | 506: API Creation with Flask | 508: OOP | 602: Bootstrapping and Bagging | 603: Random Forests + Extra Trees |
+| PM | [505: NLP II][505] | 507: Cloud Computing World Tour | 601: Decision Trees with CART | _Outcomes_ | 604: Boosting |
+| HW | 5.02 NLP EDA | | | | 6.01 Lab Name TBD |
+
+[504]: https://generalassembly.zoom.us/rec/play/1oM-m33ZVfexfF-9IsQ61Xmbe2NvfZzcG0uTf1TTSn6GCjyDkuvfCPwy4CcsQJ3d5PEVdK-XdpRJf_w4.zqpCBSrwqOgRf6Q2?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2F7EJndeR3YOloX3vHohr26PZhq8vkucsiA2lWR3UVwgTxmxTfCvXz28tD8ZNdVFE.-JaRSJpraUb9oVxE
+[505]: https://generalassembly.zoom.us/rec/play/1oM-m33ZVfexfF-9IsQ61Xmbe2NvfZzcG0uTf1TTSn6GCjyDkuvfCPwy4CcsQJ3d5PEVdK-XdpRJf_w4.zqpCBSrwqOgRf6Q2?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2F7EJndeR3YOloX3vHohr26PZhq8vkucsiA2lWR3UVwgTxmxTfCvXz28tD8ZNdVFE.-JaRSJpraUb9oVxE&autoplay=true&startTime=1719248634000
