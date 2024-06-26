@@ -37,11 +37,10 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 #### [Graduation Requirements](https://git.generalassemb.ly/dsb-521/course-info/wiki/Graduation-Requirements)
 
 ## Bonus Content and Recordings
-
-_Coming Soon_
-
 [Python Ladder Challenge](https://git.generalassemb.ly/dsb-521/103x-ladder-challenge-python) 
-<!-- * [Numpy Ladder Challenge](https://git.generalassemb.ly/dsb-122/ladder-challenge-numpy)  -->
+
+[Numpy Ladder Challenge](https://git.generalassemb.ly/dsb-521/4oj-lab-ladder-challenge-numpy)
+
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) ASSIGNMENTS
 
