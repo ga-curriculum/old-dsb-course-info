@@ -146,7 +146,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 6 - Supervised Machine Learning (Jun 24 - Jun 28)
 |    | M `6/24` | T `6/25` | W `6/26` | Th `6/27` | F `6/28` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | Quiz 3 | NLP Practice | Quiz Review | Quiz 3 Retake | Hank's SpaCy Review |
+| BH | Quiz 3 | NLP Practice | Quiz Review | Quiz 3 Retake | NLP Practice II |
 | AM | [504: NLP I][504] | [506: API Creation with Flask][506] | [508: OOP][508] | [602: Bootstrapping and Bagging][602] | 603: Random Forests + Extra Trees |
 | PM | [505: NLP II][505] | [507: Cloud Computing World Tour][507] | [601: Decision Trees with CART][601] | _Outcomes_ | 604: Boosting |
 | HW | 5.02 NLP EDA | | | | 6.01 Lab Name TBD |
