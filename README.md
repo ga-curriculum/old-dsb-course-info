@@ -147,7 +147,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `6/24` | T `6/25` | W `6/26` | Th `6/27` | F `6/28` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | Quiz 3 | NLP Practice | Quiz Review | Quiz 3 Retake | Hank's SpaCy Review |
-| AM | [504: NLP I][504] | [506: API Creation with Flask][506] | [508: OOP][508] | 602: Bootstrapping and Bagging | 603: Random Forests + Extra Trees |
+| AM | [504: NLP I][504] | [506: API Creation with Flask][506] | [508: OOP][508] | [602: Bootstrapping and Bagging][602] | 603: Random Forests + Extra Trees |
 | PM | [505: NLP II][505] | [507: Cloud Computing World Tour][507] | [601: Decision Trees with CART][601] | _Outcomes_ | 604: Boosting |
 | HW | 5.02 NLP EDA | | | | 6.01 Lab Name TBD |
 
@@ -157,6 +157,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 [507]: https://git.generalassemb.ly/dsb-521/507-cloud-computing-world-tour
 [508]: https://git.generalassemb.ly/dsb-521/508-lesson-object-oriented-programming
 [601]: https://git.generalassemb.ly/dsb-521/601-lesson-decision-trees
+[602]: https://git.generalassemb.ly/dsb-521/602-lesson-bagging
 
 ### Week X - Fourth of July Holiday Week! (Jul 1 - Jul 5)
 |    | M `7/1` | T `7/2` | W `7/3` | Th `7/4` | F `7/5` |
