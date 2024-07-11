@@ -175,7 +175,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `7/8` | T `7/9` | W `7/10` | Th `7/11` | F `7/12` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | [Git Shenanigans][708bh] | File IO and AOC Challenges | PWT | Project 5 Intro (Not a Typo!) | Quiz 4 |
-| AM | [605: SVMs][605] | [607: GLMs][607] | P3 Presentations | 701: Intro to Clustering & KMeans | 702: DBSCAN and Other Clustering Techniques |
+| AM | [605: SVMs][605] | [607: GLMs][607] | P3 Presentations | [701: Intro to Clustering & KMeans][701] | 702: DBSCAN and Other Clustering Techniques |
 | PM | [606: Gradient Descent][606] | PWT | P3 Presentations | _Outcomes_ | 703: PCA |
 | HW | | | | 7.01: KMeans | 7.02: PCA |
 
@@ -183,6 +183,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 [606]: https://git.generalassemb.ly/dsb-521/606-lesson-gradient-descent
 [708bh]: https://git.generalassemb.ly/dsb-521/git-shenanigans
 [607]: https://git.generalassemb.ly/dsb-521/607-lesson-generalized-linear-models
+[701]: https://git.generalassemb.ly/dsb-521/701-lesson-kmeans
 
 ### Week 8 - Neural Nets (Jul 15 - Jul 19)
 |    | M `7/15` | T `7/16` | W `7/17` | Th `7/18` | F `7/19` |
