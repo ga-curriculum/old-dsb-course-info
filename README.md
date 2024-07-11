@@ -66,7 +66,7 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 | 2      | Week 3        | [Project 2](https://git.generalassemb.ly/dsb-521/project-2) | Tues, 6/18 |
 | 3      | Week 5        | [Project 3](https://git.generalassemb.ly/dsb-521/project-3) | Weds, 7/10 |
 | 4      | Week 9        | [Project 4 - Hackathon](https://www.blank.org) | Tues, 7/23 |
-| 4      | Week 7        | [Project 5](https://git.generalassemb.ly/dsb-521/project-5) | Fri, 8/2 |
+| 4      | Week 7        | [Project 5](https://git.generalassemb.ly/dsb-521/project-5) | Thurs, 8/1 |
 
 ## Schedule
 Below is where you can find our course schedule. As lessons are uploaded, the text will be replaced with clickable links to lesson materials. Week titles are only general themes, and are not exhaustive of what will be learned that week. Note that there is a line, below which, our schedule is subject to change on a whim..
