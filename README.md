@@ -58,6 +58,8 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 | 3      | Week 6        | [NLP EDA](https://git.generalassemb.ly/dsb-521/502-lab-nlp) | Mon, 7/8 |
 | 3      | Week 6        | [Supervised Learning](https://git.generalassemb.ly/dsb-521/601-lab-supervised) | Fri, 7/12 |
 | 4      | Week 7        | [Kmeans](https://git.generalassemb.ly/dsb-521/701-lab-kmeans) | Thurs, 7/18 |
+| 4      | Week 7        | [PCA](https://git.generalassemb.ly/dsb-521/702-lab-pca) | Mon, 7/22 |
+
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
 
