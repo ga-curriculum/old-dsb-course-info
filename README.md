@@ -194,14 +194,16 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `7/15` | T `7/16` | W `7/17` | Th `7/18` | F `7/19` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | Battle of the Clusters/Clustering Practice | Coding Challenges | Quiz 4 Review | Quiz 4 Retake | Neural Net Review |
-| AM | [704: Transfer Learning][704] | [706: Streamlit][706] | 802: Dense Neural Nets (DNNs) and Keras | 804: Convolutional Neural Networks (CNNs) | 805: Recurrent Neural Networks (RNNs) |
-| PM | [705: Recommender Systems][705] | [801: Intro to Neural Nets][801] | 803: Regularizing Neural Nets | _Outcomes_ | Happy Funtime Activity (TBD) |
+| AM | [704: Transfer Learning][704] | [706: Streamlit][706] | [802: Dense Neural Nets (DNNs) and Keras][802] | 804: Convolutional Neural Networks (CNNs) | 805: Recurrent Neural Networks (RNNs) |
+| PM | [705: Recommender Systems][705] | [801: Intro to Neural Nets][801] | [803: Regularizing Neural Nets][803] | _Outcomes_ | Happy Funtime Activity (TBD) |
 | HW | | | 8.01: Applied NNs | 8.02: NN Digits | |
 
 [704]: https://git.generalassemb.ly/dsb-521/704-lesson-transfer-learning
 [705]: https://git.generalassemb.ly/dsb-521/705-lesson-recommender-systems
 [706]: https://git.generalassemb.ly/dsb-521/706-lesson-streamlit
 [801]: https://git.generalassemb.ly/dsb-521/801-lesson-intro-nn
+[802]: https://git.generalassemb.ly/dsb-521/802-lesson-keras
+[803]: https://git.generalassemb.ly/dsb-521/803-lesson-regularizing-optimizing-nn
 
 ### Week 9 - SQL, Spark, and Data Engineering (Jul 22 - Jul 26)
 
