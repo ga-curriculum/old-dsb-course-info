@@ -60,6 +60,7 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 | 4      | Week 7        | [Kmeans](https://git.generalassemb.ly/dsb-521/701-lab-kmeans) | Thurs, 7/18 |
 | 4      | Week 7        | [PCA](https://git.generalassemb.ly/dsb-521/702-lab-pca) | Mon, 7/22 |
 | 4      | Week 8        | [NN Applied](https://git.generalassemb.ly/dsb-521/801-lab-nn-applied) | Thurs, 7/25 |
+| 4      | "Week 8"        | [NN Digits](https://git.generalassemb.ly/dsb-521/802-lab-nn-digits) | Mon, 7/29 |
 
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
