@@ -70,7 +70,7 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 | 1      | Week 1        | [Project 1](https://git.generalassemb.ly/dsb-521/project-1) | Tues, 6/4 |
 | 2      | Week 3        | [Project 2](https://git.generalassemb.ly/dsb-521/project-2) | Tues, 6/18 |
 | 3      | Week 5        | [Project 3](https://git.generalassemb.ly/dsb-521/project-3) | Weds, 7/10 |
-| 4      | Week 9        | [Project 4 - Hackathon](https://www.blank.org) | Tues, 7/23 |
+| 4      | Week 9        | [Project 4 - Hackathon](https://git.generalassemb.ly/dsb-521/nn-hackathon) | Tues, 7/23 |
 | 4      | Week 7        | [Project 5](https://git.generalassemb.ly/dsb-521/project-5) | Thurs, 8/1 |
 
 ## Schedule
