@@ -227,17 +227,17 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 10 - Time Series + Pot Pourri (Jul 29 - Aug 2)
 |    | M `7/29` | T `7/30` | W `7/31` | Th `8/1` | F `8/2` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | Quiz 5 Review | Quiz 5 Retake | Portfolios (Async) | Quiz 6 (SQL) | TBD |
-| AM | 1001: Time Series I | 1003: Time Series III | 1004: Bayes One-Shot | 1005: Intro to R II | TBD |
-| PM | 1002: Time Series II | Capstone Flash Talks | 1005: Intro to R I | _Outcomes_ | TBD |
-| HW | 10.01: Time Series EDA | 10.02: Time Series Modeling | | 11.01: R Lab | |
+| BH | Quiz 5 Review | Quiz 5 Retake                         | Portfolios CYOA   | PWT        | Quiz 6 - SQL |
+| AM | 1001: Time Series I | 1003: Time Series III           | Intro to R I  | Project 5 Presentations | Tableau I |
+| PM | 1002: Time Series II | Capstone Flash Talks           | Intro to R II   |  _Outcomes_         | Tableau contd. |
+| HW | 10.01: Time Series EDA | 10.02: Time Series Modeling  |                       |  |     |
 
 ### Week 11 - Miscellaneous + Capstone Work Time (Aug 5 - Aug 9)
 |    | M `8/5` | T `8/6` | W `8/7` | Th `8/8` | F `8/9` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | _Holiday_ | Quiz 6 Review | Quiz 6 Retake | | |
-| AM | _Holiday_ | 1101: Tableau I | 1102: Tableau II (Likely) | _Morning Standup_ | _Morning Standup_ |
-| PM | _Holiday_ | Portolfio Work Time + Flex | | _Outcomes_ | |
+| BH | _Holiday_ | Quiz 6 Review     | Quiz 6 Retake | | |
+| AM | _Holiday_ | Bayes One Shot  |  | _Morning Standup_ | _Morning Standup_ |
+| PM | _Holiday_ | Portfolio Work Time + Flex | | _Outcomes_ | |
 | HW | | | | | |
 
 ### Week 12 - Heads Down Week (Aug 12 - Aug 16)
