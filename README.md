@@ -213,7 +213,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 
 |    | M `7/22` | T `7/23` | W `7/24` | Th `7/25` | F `7/26` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | NN Coding Challenges, Intro to Lightning Talks | P4: NN Hackathon | Joins Review | SQL TBD | Quiz 5 |
+| BH | NN Coding Challenges, Intro to Lightning Talks | P4: NN Hackathon | Joins Review | [Where's Carmen?][bh725] | Quiz 5 |
 | AM | [_CYOA Lesson Time_][CYOA] | P4: NN Hackathon | [901: SQL I][901] | [903: SQL III][903] | 904: PySpark |
 | PM | [_CYOA Lesson Time_][CYOA] | P4: NN Hackathon | [902: SQL II][902] | _Outcomes_ | Happy Funtime Activity: SQL IV? |
 | HW | | | 9.01 and 9.02 Labs | | |
@@ -223,6 +223,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 [903]: https://git.generalassemb.ly/dsb-521/903-lesson-sql-iii
 
 [CYOA]: https://git.generalassemb.ly/dsb-521/cyoa-omnibus
+[bh725]: https://git.generalassemb.ly/dsb-521/sql-carmen-sandiego
 
 ### Week 10 - Time Series + Pot Pourri (Jul 29 - Aug 2)
 |    | M `7/29` | T `7/30` | W `7/31` | Th `8/1` | F `8/2` |
