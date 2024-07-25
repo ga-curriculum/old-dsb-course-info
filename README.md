@@ -230,10 +230,13 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 ### Week 10 - Time Series + Pot Pourri (Jul 29 - Aug 2)
 |    | M `7/29` | T `7/30` | W `7/31` | Th `8/1` | F `8/2` |
 |----|-------------|-------------|-------------|--------------|-------------|
-| BH | Quiz 5 Review | Quiz 5 Retake                         | Portfolios CYOA   | PWT        | Quiz 6 - SQL |
-| AM | 1001: Time Series I | 1003: Time Series III           | Intro to R I  | Project 5 Presentations | Tableau I |
-| PM | 1002: Time Series II | Capstone Flash Talks           | Intro to R II   |  _Outcomes_         | Tableau contd. |
+| BH | Quiz 5 Review | Quiz 5 Retake                         | Tableau I (intro)  | PWT        | Quiz 6 - SQL |
+| AM | 1001: Time Series I | 1003: Time Series III           | Intro to R I  | Project 5 Presentations | [Portfolios][portfolio] |
+| PM | 1002: Time Series II | Capstone Flash Talks           | Intro to R II   |  _Outcomes_         | Tableau II |
 | HW | 10.01: Time Series EDA | 10.02: Time Series Modeling  |                       |  |     |
+
+[portfolio]: https://git.generalassemb.ly/dsb-521/portfolio
+
 
 ### Week 11 - Miscellaneous + Capstone Work Time (Aug 5 - Aug 9)
 |    | M `8/5` | T `8/6` | W `8/7` | Th `8/8` | F `8/9` |
