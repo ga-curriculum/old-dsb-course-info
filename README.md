@@ -61,6 +61,8 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 | 4      | Week 7        | [PCA](https://git.generalassemb.ly/dsb-521/702-lab-pca) | Mon, 7/22 |
 | 4      | Week 8        | [NN Applied](https://git.generalassemb.ly/dsb-521/801-lab-nn-applied) | Thurs, 7/25 |
 | 4      | "Week 8"        | [NN Digits](https://git.generalassemb.ly/dsb-521/802-lab-nn-digits) | Mon, 7/29 |
+| 5      | "Week 9"        | [SQL](https://git.generalassemb.ly/dsb-521/901-lab-sql) | Thurs, 8/8 |
+| 5      | "Week 9"        | [SQL Ladder](https://git.generalassemb.ly/dsb-521/902-lab-sql-ladder) | Thurs, 8/8 |
 
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
