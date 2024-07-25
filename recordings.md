@@ -132,3 +132,30 @@ _Recordings will appear here as they become available_
 
 
 [715bh-bonus]: https://generalassembly.zoom.us/rec/share/3iJ3NQFWvuaiVY_exizUqBO4St-_1G-wz18voYvKDK5iBStfQGdthIzlEfqEpymV.g5U_zN9AezrktewQ
+
+### Week 8 - Neural Nets (Jul 15 - Jul 19)
+|    | M `7/15` | T `7/16` | W `7/17` | Th `7/18` | F `7/19` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | [Battle of the Clusters/Clustering Practice][715bh] | Coding Challenges | [Quiz 4 Review][717bh] | Quiz 4 Retake | [Neural Net Review][719bh] |
+| AM | [704: Transfer Learning][704] | [706: Streamlit][706] | [802: Dense Neural Nets (DNNs) and Keras][802] | [804: Convolutional Neural Networks (CNNs)][804] | [805: Recurrent Neural Networks (RNNs)][805] |
+| PM | [705: Recommender Systems][705] | [801: Intro to Neural Nets][801] | [803: Regularizing Neural Nets][803] | _Outcomes_ | Happy Funtime Activity (TBD) |
+| HW | | | 8.01: Applied NNs | 8.02: NN Digits | |
+
+[715bh]: https://generalassembly.zoom.us/rec/play/1K9hpFZkzPL-6vN6jiR6SwlztgiCQJ6YkcQpRThw_yhg3nI9NyCbQ6IBaGElPJK-hMMrR-RGE7CwHlZD.HyK2s59IjHyLDgB-?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FtlJrHu7qpZ78eYIYfTXAaOR5RUeH03xj9WlvyA7g-KrRm80FM_HubBuOTmDb7rIE.zBcVQqQnvD8vIT3w
+[704]: https://generalassembly.zoom.us/rec/play/1K9hpFZkzPL-6vN6jiR6SwlztgiCQJ6YkcQpRThw_yhg3nI9NyCbQ6IBaGElPJK-hMMrR-RGE7CwHlZD.HyK2s59IjHyLDgB-?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FtlJrHu7qpZ78eYIYfTXAaOR5RUeH03xj9WlvyA7g-KrRm80FM_HubBuOTmDb7rIE.zBcVQqQnvD8vIT3w&autoplay=true&startTime=1721052621000
+[705]: https://generalassembly.zoom.us/rec/play/1K9hpFZkzPL-6vN6jiR6SwlztgiCQJ6YkcQpRThw_yhg3nI9NyCbQ6IBaGElPJK-hMMrR-RGE7CwHlZD.HyK2s59IjHyLDgB-?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FtlJrHu7qpZ78eYIYfTXAaOR5RUeH03xj9WlvyA7g-KrRm80FM_HubBuOTmDb7rIE.zBcVQqQnvD8vIT3w&autoplay=true&startTime=1721063175000
+[706]: https://generalassembly.zoom.us/rec/play/s1ymqP9ni2a7iwA_6uOk69tPVr7jn9Otu_HFCwRgARs33phDNoe55Hq2n52bhUK70gX-KLpTsQdB_pri.6hpcbAjopLdGvZrq?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2F2sV7fvSx1YWDoGTLHo5lDrz0EnwvHvEI0IiHwzDSnixcfMkh66bXdV-t0Ttqypxh.WqqbxfVEdzJ7tLgx
+[801]: https://generalassembly.zoom.us/rec/play/s1ymqP9ni2a7iwA_6uOk69tPVr7jn9Otu_HFCwRgARs33phDNoe55Hq2n52bhUK70gX-KLpTsQdB_pri.6hpcbAjopLdGvZrq?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2F2sV7fvSx1YWDoGTLHo5lDrz0EnwvHvEI0IiHwzDSnixcfMkh66bXdV-t0Ttqypxh.WqqbxfVEdzJ7tLgx&autoplay=true&startTime=1721149419000
+[802]: https://generalassembly.zoom.us/rec/play/cs_QhfPqseJedkcKUwllxoAxCdwR4yxGiveDl0oZYUlwc5IVg2cU2OTuSj38UUIZTEz__jCoXcyXV04.5qWLoCz5Rzyd4Js2?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2F_YrDgKMoZSXTBvlg7p4NKssmmuZ4qu0xXSy8fczsnN7Jc1DG7f9BPeQ7t_Ru-ymQ.dQobvXmIyqwpsTaY&autoplay=true&startTime=1721225420000
+[803]: https://generalassembly.zoom.us/rec/play/cs_QhfPqseJedkcKUwllxoAxCdwR4yxGiveDl0oZYUlwc5IVg2cU2OTuSj38UUIZTEz__jCoXcyXV04.5qWLoCz5Rzyd4Js2?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2F_YrDgKMoZSXTBvlg7p4NKssmmuZ4qu0xXSy8fczsnN7Jc1DG7f9BPeQ7t_Ru-ymQ.dQobvXmIyqwpsTaY&autoplay=true&startTime=1721235899000
+[804]: https://generalassembly.zoom.us/rec/play/Lyhxkft-NgNzVAVhaWX8S0Zb2ueJyGKNMCGypQkJlrA5CuMau2bojLCnJx3RMDKeCwEJAAwBto0MeqfE.1KUXC5pPMvFVyttG?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2F3HiL5FMHcO9b-pwuFtcc84XCxTwtEHg04r3s0WIrFBiRxtApcBeB9ERGyh4ZYOoU.hb-cHMHncDwogRed
+[805]: https://generalassembly.zoom.us/rec/play/DI1_T74oog6s8kNEVMGebXu7PiHy914lK-iI5gUOKIQICqtXBj9jbNdedWalWu-0CAuBUDymh6KoThxA.vCYQpk0h0fP2iWzW?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fgeneralassembly.zoom.us%2Frec%2Fshare%2FTvHILJcv2vn6KJehEYqkPaUVZdz5J3azbh21IyQxaQRpftEdvq4eiqyX2BOj-0sO.wxYIku0CG4djuL2z
+
+### Week 9 - SQL, Spark, and Data Engineering (Jul 22 - Jul 26)
+
+|    | M `7/22` | T `7/23` | W `7/24` | Th `7/25` | F `7/26` |
+|----|-------------|-------------|-------------|--------------|-------------|
+| BH | NN Coding Challenges, Intro to Lightning Talks | P4: NN Hackathon | Joins Review | [Where's Carmen?][bh725] | Quiz 5 |
+| AM | [_CYOA Lesson Time_][CYOA] | P4: NN Hackathon | [901: SQL I][901] | [903: SQL III][903] | 904: PySpark |
+| PM | [_CYOA Lesson Time_][CYOA] | P4: NN Hackathon | [902: SQL II][902] | _Outcomes_ | Happy Funtime Activity: SQL IV? |
+| HW | | | 9.01 and 9.02 Labs | | |
