@@ -216,13 +216,14 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `7/22` | T `7/23` | W `7/24` | Th `7/25` | F `7/26` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | NN Coding Challenges, Intro to Lightning Talks | P4: NN Hackathon | Joins Review | [Where's Carmen?][bh725] | Quiz 5 |
-| AM | [_CYOA Lesson Time_][CYOA] | P4: NN Hackathon | [901: SQL I][901] | [903: SQL III][903] | 904: PySpark |
+| AM | [_CYOA Lesson Time_][CYOA] | P4: NN Hackathon | [901: SQL I][901] | [903: SQL III][903] | [904: PySpark][904] |
 | PM | [_CYOA Lesson Time_][CYOA] | P4: NN Hackathon | [902: SQL II][902] | _Outcomes_ | Happy Funtime Activity: SQL IV? |
 | HW | | | 9.01 and 9.02 Labs | | |
 
 [901]: https://git.generalassemb.ly/dsb-521/901-lesson-sql-i
 [902]: https://git.generalassemb.ly/dsb-521/902-lesson-sql-ii
 [903]: https://git.generalassemb.ly/dsb-521/903-lesson-sql-iii
+[904]: https://git.generalassemb.ly/dsb-521/904-lesson-pyspark
 
 [CYOA]: https://git.generalassemb.ly/dsb-521/cyoa-omnibus
 [bh725]: https://git.generalassemb.ly/dsb-521/sql-carmen-sandiego
