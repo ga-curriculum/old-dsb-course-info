@@ -233,10 +233,12 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | Quiz 5 Review | Quiz 5 Retake                         | Tableau I (intro)  | PWT        | Quiz 6 - SQL |
 | AM | 1001: Time Series I | 1003: Time Series III           | Intro to R I  | Project 5 Presentations | [Portfolios][portfolio] |
-| PM | 1002: Time Series II | Capstone Flash Talks           | Intro to R II   |  _Outcomes_         | Tableau II |
+| PM | [1002: Time Series II][1002] | Capstone Flash Talks           | Intro to R II   |  _Outcomes_         | Tableau II |
 | HW | 10.01: Time Series EDA | 10.02: Time Series Modeling  |                       |  |     |
 
 [portfolio]: https://git.generalassemb.ly/dsb-521/portfolio
+[1001]: https://git.generalassemb.ly/dsb-521/1001-ts-i-eda
+[1002]: https://git.generalassemb.ly/dsb-521/1002-ts-ii-modeling
 
 
 ### Week 11 - Miscellaneous + Capstone Work Time (Aug 5 - Aug 9)
