@@ -64,6 +64,7 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 | 5      | "Week 9"        | [SQL](https://git.generalassemb.ly/dsb-521/901-lab-sql) | Thurs, 8/8 |
 | 5      | "Week 9"        | [SQL Ladder](https://git.generalassemb.ly/dsb-521/902-lab-sql-ladder) | Thurs, 8/8 |
 | 5      | "Week 10"        | [Timeseries](https://git.generalassemb.ly/dsb-521/1001-lab-timeseries) | Weds, 8/14 |
+| 5      | "Week 10"        | [R](https://git.generalassemb.ly/dsb-521/1002-lab-r) | Thurs, 8/15 |
 
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
