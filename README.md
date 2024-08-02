@@ -41,6 +41,8 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 
 [Numpy Ladder Challenge](https://git.generalassemb.ly/dsb-521/4oj-lab-ladder-challenge-numpy)
 
+[NN by Scratch](https://git.generalassemb.ly/dsb-521/1003-ex-nn-conceptual)
+
 
 ## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) ASSIGNMENTS
 
