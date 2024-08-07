@@ -252,11 +252,11 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 |    | M `8/5` | T `8/6` | W `8/7` | Th `8/8` | F `8/9` |
 |----|-------------|-------------|-------------|--------------|-------------|
 | BH | _Holiday_ | Quiz 6 Review     | Quiz 6 Retake | | |
-| AM | _Holiday_ | | [1005: Bayes One Shot][1005]  |  _Morning Standup_ | _Morning Standup_ |
+| AM | _Holiday_ | | [1006: Bayes One Shot][1006]  |  _Morning Standup_ | _Morning Standup_ |
 | PM | _Holiday_ | Portfolio Work Time + Flex | | _Outcomes_ | |
 | HW | | | | | |
 
-[1005]: https://git.generalassemb.ly/dsb-521/1005-bayes-one-shot
+[1006]: https://git.generalassemb.ly/dsb-521/1006-bayes-one-shot
 
 ### Week 12 - Heads Down Week (Aug 12 - Aug 16)
 |    | M `8/12` | T `8/13` | W `8/14` | Th `8/15` | F `8/16` |
