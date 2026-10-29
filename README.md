@@ -1,4 +1,4 @@
-# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Course Info
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> Course Info
 
 This repo contains handy links, the class weekly schedule, recordings, bonus content, codes of conduct, advice, and guides that will probably help you answer just about any question you have about the structure and organization of the course.
 
@@ -44,7 +44,7 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 [NN by Scratch](https://git.generalassemb.ly/dsb-521/1003-ex-nn-conceptual)
 
 
-## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) ASSIGNMENTS
+## ASSIGNMENTS
 
 | Unit   | Week Assigned | Assignment                                                                 | Due Date    |
 |--------|---------------|----------------------------------------------------------------------------|-------------|
@@ -69,7 +69,7 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 | 5      | "Week 10"        | [R](https://git.generalassemb.ly/dsb-521/1002-lab-r) | Thurs, 8/15 |
 
 
-## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECTS
+## PROJECTS
 
 | Unit   | Week Assigned | Project                                                     | Due Date      |
 |--------|---------------|-------------------------------------------------------------|---------------|
@@ -275,7 +275,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | HW | | | | | |
 
 
-## ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CODE OF CONDUCT
+## CODE OF CONDUCT
 General Assembly is a community of learners. Should a student be disruptive to the community, they may be asked to leave. Examples of disruption include, but are not limited to, aggression or threats toward other students, instructors, or staff; illegal activities conducted or discussed on or around campus; the failure to observe classroom or campus conduct standards set forth by instructors or staff; or other behavior identified as disruptive to the learning environment of other students by instructors or staff. Students may also be withdrawn for academic violations, per General Assembly’s Withdrawal Policy.
 
 General Assembly has a zero-tolerance policy towards plagiarism and cheating. It is destructive to classroom culture, and exhibits a clear lack of respect for classmates, instructors, the company, and the greater community. Any work considered to have been plagiarized will not be accepted and will not count toward graduation requirements. If a project exhibits evidence of plagiarism or cheating, the student will not be able to display the project at a GA-sponsored event or presentation. This zero tolerance policy extends to plagiarism, dishonesty, and /or cheating while participating in General Assembly’s Outcomes employment assistance services following successful course completion. Any student found plagiarizing or attempting to plagiarize will be disciplined accordingly (including but not limited to removal from class,  and/or revocation of Certificate of Completion).
