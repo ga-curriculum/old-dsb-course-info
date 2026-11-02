@@ -1,4 +1,4 @@
-# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Presentation Advice
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> Presentation Advice
 
 How do you give a technical presentation to a nontechnical audience? What about to a technical audience? Below I give advice based on years of experience giving presentations both as a data scientist and data science instructor.
 
