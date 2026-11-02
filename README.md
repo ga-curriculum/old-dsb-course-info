@@ -30,14 +30,14 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 
 #### [Google Classroom](https://classroom.google.com/c/Njc5NTU3NDMxNTMw)
 
-#### [Breakfast Hour](https://git.generalassemb.ly/dsb-521/breakfast-hour)
+#### [Breakfast Hour](https://github.com/ga-curriculum/old-dsb-breakfast-hour)
 
 #### [Recordings](./recordings.md)
 
 #### [Graduation Requirements](https://git.generalassemb.ly/dsb-521/course-info/wiki/Graduation-Requirements)
 
 ## Bonus Content and Recordings
-[Python Ladder Challenge](https://git.generalassemb.ly/dsb-521/103x-ladder-challenge-python) 
+[Python Ladder Challenge](https://github.com/ga-curriculum/ladder-challenge-python) 
 
 [Numpy Ladder Challenge](https://git.generalassemb.ly/dsb-521/4oj-lab-ladder-challenge-numpy)
 
@@ -48,32 +48,32 @@ This repo contains handy links, the class weekly schedule, recordings, bonus con
 
 | Unit   | Week Assigned | Assignment                                                                 | Due Date    |
 |--------|---------------|----------------------------------------------------------------------------|-------------|
-| 1      | Week 1        | [Python Trial 1](https://git.generalassemb.ly/dsb-521/101-lab-first-trial) | Weds, 5/29 |
-| 1      | Week 1        | [Python Trial 2](https://git.generalassemb.ly/dsb-521/102-lab-second-trial) | Fri, 5/31 |
+| 1      | Week 1        | [Python Trial 1](https://github.com/ga-curriculum/lab-first-trial) | Weds, 5/29 |
+| 1      | Week 1        | [Python Trial 2](https://github.com/ga-curriculum/lab-second-trial) | Fri, 5/31 |
 | 1      | Week 2        | [Titanic](https://git.generalassemb.ly/dsb-521/201-lab-titanic) | Weds, 6/5 |
 | 1      | Week 2        | [Excel](https://git.generalassemb.ly/dsb-521/202-lab-excel) | Fri, 6/7 |
 | 2      | Week 3        | [Regression](https://git.generalassemb.ly/dsb-521/301-lab-regression) | Fri, 6/14 |
 | 2      | Week 4        | [Validation](https://git.generalassemb.ly/dsb-521/302-lab-validation) | Mon, 6/17 |
 | 2      | Week 4        | [Classification](https://git.generalassemb.ly/dsb-521/401-lab-classification-new) | Fri, 6/21 |
 | 2      | Week 5        | [Classification Eval](https://git.generalassemb.ly/dsb-521/402-lab-classification-eval) | Mon, 6/24 |
-| 3      | Week 5        | [Webscraping](https://git.generalassemb.ly/dsb-521/501-lab-webscraping) | Fri, 6/28 |
+| 3      | Week 5        | [Webscraping](https://github.com/ga-curriculum/lab-webscraping) | Fri, 6/28 |
 | 3      | Week 6        | [NLP EDA](https://git.generalassemb.ly/dsb-521/502-lab-nlp) | Mon, 7/8 |
 | 3      | Week 6        | [Supervised Learning](https://git.generalassemb.ly/dsb-521/601-lab-supervised) | Fri, 7/12 |
 | 4      | Week 7        | [Kmeans](https://git.generalassemb.ly/dsb-521/701-lab-kmeans) | Thurs, 7/18 |
 | 4      | Week 7        | [PCA](https://git.generalassemb.ly/dsb-521/702-lab-pca) | Mon, 7/22 |
 | 4      | Week 8        | [NN Applied](https://git.generalassemb.ly/dsb-521/801-lab-nn-applied) | Thurs, 7/25 |
 | 4      | "Week 8"        | [NN Digits](https://git.generalassemb.ly/dsb-521/802-lab-nn-digits) | Mon, 7/29 |
-| 5      | "Week 9"        | [SQL](https://git.generalassemb.ly/dsb-521/901-lab-sql) | Thurs, 8/8 |
+| 5      | "Week 9"        | [SQL](https://github.com/ga-curriculum/lab-sql) | Thurs, 8/8 |
 | 5      | "Week 9"        | [SQL Ladder](https://git.generalassemb.ly/dsb-521/902-lab-sql-ladder) | Thurs, 8/8 |
 | 5      | "Week 10"        | [Timeseries](https://git.generalassemb.ly/dsb-521/1001-lab-timeseries) | Weds, 8/14 |
-| 5      | "Week 10"        | [R](https://git.generalassemb.ly/dsb-521/1002-lab-r) | Thurs, 8/15 |
+| 5      | "Week 10"        | [R](https://github.com/ga-curriculum/lab-r) | Thurs, 8/15 |
 
 
 ## PROJECTS
 
 | Unit   | Week Assigned | Project                                                     | Due Date      |
 |--------|---------------|-------------------------------------------------------------|---------------|
-| 1      | Week 1        | [Project 1](https://git.generalassemb.ly/dsb-521/project-1) | Tues, 6/4 |
+| 1      | Week 1        | [Project 1](https://github.com/ga-curriculum/old-dsb-project-1) | Tues, 6/4 |
 | 2      | Week 3        | [Project 2](https://git.generalassemb.ly/dsb-521/project-2) | Tues, 6/18 |
 | 3      | Week 5        | [Project 3](https://git.generalassemb.ly/dsb-521/project-3) | Weds, 7/10 |
 | 4      | Week 9        | [Project 4 - Hackathon](https://git.generalassemb.ly/dsb-521/nn-hackathon) | Tues, 7/23 |
@@ -91,13 +91,13 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | _Holiday_ | [101: Command Line and Git][101] | [103: Control Flow][103] | [105: List Comprehensions and More][105] | [106: Pandas II][106] |
 | HW | _Holiday_ | Python First Trial | Python Second Trial | | Project 1 Introduced | Titanic Lab |
 
-[100]: https://git.generalassemb.ly/dsb-521/100-lesson-installfest
-[101]: https://git.generalassemb.ly/dsb-521/101-lesson-cl-and-git
-[102]: https://git.generalassemb.ly/dsb-521/102-lesson-python-intro
-[103]: https://git.generalassemb.ly/dsb-521/103-lesson-python-control-flow
-[104]: https://git.generalassemb.ly/dsb-521/104-lesson-functions
-[105]: https://git.generalassemb.ly/dsb-521/105-lesson-listcomps-and-more
-[106]: https://git.generalassemb.ly/dsb-521/106-lesson-intro-to-pandas
+[100]: https://github.com/ga-curriculum/lesson-installfest
+[101]: https://github.com/ga-curriculum/lesson-cl-and-git
+[102]: https://github.com/ga-curriculum/lesson-python-intro
+[103]: https://github.com/ga-curriculum/lesson-python-control-flow
+[104]: https://github.com/ga-curriculum/lesson-functions
+[105]: https://github.com/ga-curriculum/lesson-listcomps-and-more
+[106]: https://github.com/ga-curriculum/lesson-intro-to-pandas
 
 ### Week 2 - Stat Week (May 27 - May 31)
 |    | M `5/27` | T `5/28` | W `5/29` | Th `5/30` | F `5/31` |
@@ -107,12 +107,12 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | _Holiday_ | Unit 1 Buffer Zone | _Outcomes_ | [202: Probability][202] | [204: Continuous Distributions][204] |
 | HW | _Holiday_ | Lab 2.01: Titanic Lab | | | Lab 2.02: Excel Madness |
 
-[107]: https://git.generalassemb.ly/dsb-521/107-lesson-data-visualization
-[108]: https://git.generalassemb.ly/dsb-521/108-lesson-eda
-[201]: https://git.generalassemb.ly/dsb-521/201-lesson-statsbomb
-[202]: https://git.generalassemb.ly/dsb-521/202-lesson-intro-to-probability
-[203]: https://git.generalassemb.ly/dsb-521/203-discrete-distributions
-[204]: https://git.generalassemb.ly/dsb-521/204-lesson-continuous-distributions
+[107]: https://github.com/ga-curriculum/lesson-data-visualization
+[108]: https://github.com/ga-curriculum/old-dsb-108-EDA
+[201]: https://github.com/ga-curriculum/old-dsb-201-Stats-Bomb
+[202]: https://github.com/ga-curriculum/lesson-intro-to-probability
+[203]: https://github.com/ga-curriculum/discrete-distributions
+[204]: https://github.com/ga-curriculum/lesson-continuous-distributions
 
 ### Week 3 - Regression (Jun 3 - Jun 7)
 |    | M `6/3` | T `6/4` | W `6/5` | Th `6/6` | F `6/7` |
@@ -122,10 +122,10 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | Project Work Time | P1 Presentations | [206: The Central Limit Theorem and Inference II][206] | _Outcomes_ | [303: Regression Metrics][303]
 | HW | | | | Lab 3.01: Regression | |
 
-[205]: https://git.generalassemb.ly/dsb-521/205-lesson-ethics-plagiarism
-[206]: https://git.generalassemb.ly/dsb-521/206-clt-and-inference
-[301]: https://git.generalassemb.ly/dsb-521/301-302-lesson-linear-regression
-[303]: https://git.generalassemb.ly/dsb-521/303-lesson-regression-metrics
+[205]: https://github.com/ga-curriculum/lesson-ethics-plagiarism
+[206]: https://github.com/ga-curriculum/clt-and-inference
+[301]: https://github.com/ga-curriculum/302-lesson-linear-regression
+[303]: https://github.com/ga-curriculum/lesson-regression-metrics
 
 ### Week 4 - Classification (Jun 10 - Jun 14)
 |    | M `6/10` | T `6/11` | W `6/12` | Th `6/13` | F `6/14` |
@@ -135,12 +135,12 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | [305: Feature Engineering][305] | Buffer/Overflow Time | [402: k-Nearest Neighbors][402] | _Outcomes_ | [405: Classification Metrics II][405] |
 | HW | | Lab 3.02: Validation | | Lab 4.01: Classification | |
 
-[304]: https://git.generalassemb.ly/dsb-521/304-bvt-and-tts
-[305]: https://git.generalassemb.ly/dsb-521/305-lesson-feature-engineering
-[306]: https://git.generalassemb.ly/dsb-521/306-lesson-model-workflow
-[401]: https://git.generalassemb.ly/dsb-521/401-lesson-logistic-regression
-[402]: https://git.generalassemb.ly/dsb-521/402-lesson-knn
-[403]: https://git.generalassemb.ly/dsb-521/403-lesson-regularization
+[304]: https://github.com/ga-curriculum/bvt-and-tts
+[305]: https://github.com/ga-curriculum/lesson-feature-engineering
+[306]: https://github.com/ga-curriculum/lesson-model-workflow
+[401]: https://github.com/ga-curriculum/lesson-logistic-regression
+[402]: https://github.com/ga-curriculum/lesson-knn
+[403]: https://github.com/ga-curriculum/lesson-regularization
 [404]: https://git.generalassemb.ly/dsb-521/404-lesson-classification-metrics-i
 [405]: https://git.generalassemb.ly/dsb-521/405-lesson-classification-metrics-ii
 
@@ -152,10 +152,10 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | PWT | Project 2 Presentations | _Holiday_ | _Outcomes_ | [503: APIs and API Consumptions][503] |
 | HW | 4.02 Classification Eval | | | | 5.01 Lab |
 
-[406]: https://git.generalassemb.ly/dsb-521/406-lesson-gridsearch-and-pipelines
-[501]: https://git.generalassemb.ly/dsb-521/501-lesson-html-css
-[502]: https://git.generalassemb.ly/dsb-521/502-lesson-webscraping
-[503]: https://git.generalassemb.ly/dsb-521/503-lesson-apis
+[406]: https://github.com/ga-curriculum/lesson-gridsearch-and-pipelines
+[501]: https://github.com/ga-curriculum/lesson-html-css
+[502]: https://github.com/ga-curriculum/lesson-webscraping
+[503]: https://github.com/ga-curriculum/lesson-apis
 
 ### Week 6 - Supervised Machine Learning (Jun 24 - Jun 28)
 |    | M `6/24` | T `6/25` | W `6/26` | Th `6/27` | F `6/28` |
@@ -165,15 +165,15 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | [505: NLP II][505] | [507: Cloud Computing World Tour][507] | [601: Decision Trees with CART][601] | _Outcomes_ | [604: Boosting][604] |
 | HW | 5.02 NLP EDA | | | | 6.01 Lab Name TBD |
 
-[504]: https://git.generalassemb.ly/dsb-521/504-lesson-nlp-i
-[505]: https://git.generalassemb.ly/dsb-521/505-lesson-nlp-ii
-[506]: https://git.generalassemb.ly/dsb-521/506-lesson-flask-basics
-[507]: https://git.generalassemb.ly/dsb-521/507-cloud-computing-world-tour
-[508]: https://git.generalassemb.ly/dsb-521/508-lesson-object-oriented-programming
-[601]: https://git.generalassemb.ly/dsb-521/601-lesson-decision-trees
-[602]: https://git.generalassemb.ly/dsb-521/602-lesson-bagging
-[603]: https://git.generalassemb.ly/dsb-521/603-lesson-random-forest
-[604]: https://git.generalassemb.ly/dsb-521/604-lesson-boosting
+[504]: https://github.com/ga-curriculum/lesson-nlp-i
+[505]: https://github.com/ga-curriculum/lesson-nlp-ii
+[506]: https://github.com/ga-curriculum/lesson-flask-basics
+[507]: https://github.com/ga-curriculum/cloud-computing-world-tour
+[508]: https://github.com/ga-curriculum/lesson-object-oriented-programming
+[601]: https://github.com/ga-curriculum/lesson-decision-trees
+[602]: https://github.com/ga-curriculum/lesson-bagging
+[603]: https://github.com/ga-curriculum/lesson-random-forest
+[604]: https://github.com/ga-curriculum/lesson-boosting
 
 ### Week X - Fourth of July Holiday Week! (Jul 1 - Jul 5)
 |    | M `7/1` | T `7/2` | W `7/3` | Th `7/4` | F `7/5` |
@@ -190,13 +190,13 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | [606: Gradient Descent][606] | PWT | P3 Presentations | _Outcomes_ | [703: PCA][703] |
 | HW | | | | 7.01: KMeans | 7.02: PCA |
 
-[605]: https://git.generalassemb.ly/dsb-521/605-lesson-support-vector-machines
-[606]: https://git.generalassemb.ly/dsb-521/606-lesson-gradient-descent
+[605]: https://github.com/ga-curriculum/lesson-support-vector-machines
+[606]: https://github.com/ga-curriculum/lesson-gradient-descent
 [708bh]: https://git.generalassemb.ly/dsb-521/git-shenanigans
-[607]: https://git.generalassemb.ly/dsb-521/607-lesson-generalized-linear-models
-[701]: https://git.generalassemb.ly/dsb-521/701-lesson-kmeans
-[702]: https://git.generalassemb.ly/dsb-521/702-lesson-dbscan-and-more
-[703]: https://git.generalassemb.ly/dsb-521/703-lesson-principal-component-analysis
+[607]: https://github.com/ga-curriculum/lesson-generalized-linear-models
+[701]: https://github.com/ga-curriculum/lesson-kmeans
+[702]: https://github.com/ga-curriculum/lesson-dbscan-and-more
+[703]: https://github.com/ga-curriculum/lesson-principal-component-analysis
 
 ### Week 8 - Neural Nets (Jul 15 - Jul 19)
 |    | M `7/15` | T `7/16` | W `7/17` | Th `7/18` | F `7/19` |
@@ -206,14 +206,14 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | [705: Recommender Systems][705] | [801: Intro to Neural Nets][801] | [803: Regularizing Neural Nets][803] | _Outcomes_ | Happy Funtime Activity (TBD) |
 | HW | | | 8.01: Applied NNs | 8.02: NN Digits | |
 
-[704]: https://git.generalassemb.ly/dsb-521/704-lesson-transfer-learning
-[705]: https://git.generalassemb.ly/dsb-521/705-lesson-recommender-systems
-[706]: https://git.generalassemb.ly/dsb-521/706-lesson-streamlit
-[801]: https://git.generalassemb.ly/dsb-521/801-lesson-intro-nn
-[802]: https://git.generalassemb.ly/dsb-521/802-lesson-keras
-[803]: https://git.generalassemb.ly/dsb-521/803-lesson-regularizing-optimizing-nn
-[804]: https://git.generalassemb.ly/dsb-521/804-lesson-cnn
-[805]: https://git.generalassemb.ly/dsb-521/805-lesson-rnn
+[704]: https://github.com/ga-curriculum/lesson-transfer-learning
+[705]: https://github.com/ga-curriculum/lesson-recommender-systems
+[706]: https://github.com/ga-curriculum/lesson-streamlit
+[801]: https://github.com/ga-curriculum/lesson-intro-nn
+[802]: https://github.com/ga-curriculum/lesson-keras
+[803]: https://github.com/ga-curriculum/lesson-regularizing-optimizing-nn
+[804]: https://github.com/ga-curriculum/lesson-cnn
+[805]: https://github.com/ga-curriculum/lesson-rnn
 
 ### Week 9 - SQL, Spark, and Data Engineering (Jul 22 - Jul 26)
 
@@ -227,9 +227,9 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 [901]: https://git.generalassemb.ly/dsb-521/901-lesson-sql-i
 [902]: https://git.generalassemb.ly/dsb-521/902-lesson-sql-ii
 [903]: https://git.generalassemb.ly/dsb-521/903-lesson-sql-iii
-[904]: https://git.generalassemb.ly/dsb-521/904-lesson-pyspark
+[904]: https://github.com/ga-curriculum/lesson-pyspark
 
-[CYOA]: https://git.generalassemb.ly/dsb-521/cyoa-omnibus
+[CYOA]: https://github.com/ga-curriculum/cyoa-omnibus
 [bh725]: https://git.generalassemb.ly/dsb-521/sql-carmen-sandiego
 
 ### Week 10 - Time Series + Pot Pourri (Jul 29 - Aug 2)
@@ -241,10 +241,10 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | HW | 10.01: Time Series EDA | 10.02: Time Series Modeling  |                       |  | _TIM IS OUT! |
 
 [portfolio]: https://git.generalassemb.ly/dsb-521/portfolio
-[1001]: https://git.generalassemb.ly/dsb-521/1001-ts-i-eda
-[1002]: https://git.generalassemb.ly/dsb-521/1002-ts-ii-modeling
-[1003]: https://git.generalassemb.ly/dsb-521/1003-ts-iii-extras
-[1004]: https://git.generalassemb.ly/dsb-521/1004-r-fest
+[1001]: https://github.com/ga-curriculum/ts-i-eda
+[1002]: https://github.com/ga-curriculum/ts-ii-modeling
+[1003]: https://github.com/ga-curriculum/ts-iii-extras
+[1004]: https://github.com/ga-curriculum/r-fest
 [1005]: https://git.generalassemb.ly/dsb-521/1005-tableau
 
 
@@ -256,7 +256,7 @@ Below is where you can find our course schedule. As lessons are uploaded, the te
 | PM | _Holiday_ | Portfolio Work Time + Flex | | _Outcomes_ | |
 | HW | | | | | |
 
-[1006]: https://git.generalassemb.ly/dsb-521/1006-bayes-one-shot
+[1006]: https://github.com/ga-curriculum/bayes-one-shot
 
 ### Week 12 - Heads Down Week (Aug 12 - Aug 16)
 |    | M `8/12` | T `8/13` | W `8/14` | Th `8/15` | F `8/16` |
